@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi my name is Venelin Nikolov 👋
+<hr>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**VMNikolov20/VMNikolov20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="250" width="375" alt="" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" />
 
-Here are some ideas to get you started:
+## Talking about Personal Stuffs:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 &nbsp; I’m currently learning HTML5&CSS3 and C++ .
+
+<hr>
+
+### Connect with me:
+
+<a href ="http://www.google.com" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
+<img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<br>
+<hr>
