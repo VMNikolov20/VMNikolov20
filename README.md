@@ -2,7 +2,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" />
 
-## Talking about Personal Stuffs:
+## In school:
 
 - 🚀 &nbsp; I’m currently learning HTML5&CSS3 and C++ .
 
