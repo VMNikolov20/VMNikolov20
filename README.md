@@ -4,7 +4,7 @@
 
 ### I'm 15 years old and i'm studying at PGKPI in Burgas.
 
-<img align="right" height="250" width="375" alt="" src="https://www.bing.com/th/id/OGC.f7ffdb74fb7d5eb76ca26ae71db61670?pid=1.7&rurl=https%3a%2f%2fmedia2.giphy.com%2fmedia%2fdu3J3cXyzhj75IOgvA%2fgiphy.gif&ehk=jujW6TxUZsUAg1%2fz0S0KDll6hN%2bC66d7ITQSjAoEU%2bw%3d" />
+<img align="right" height="250" width="375" alt="" src="https://th.bing.com/th/id/OIP.3O86vt8OB2EgOq64WIam8wHaHa?w=163&h=180&c=7&r=0&o=5&pid=1.7" />
 
 <hr>
 
