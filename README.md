@@ -1,5 +1,5 @@
 # Hi my name is Venelin Nikolov 👋
-## I'm 15 years old and i'm studying at PGKPI
+### I'm 15 years old and i'm studying at PGKPI
 <img align="right" height="250" width="375" alt="" src="https://th.bing.com/th/id/R.5eee22643202b9a757e457fbc796b74d?rik=SHHQNgKCZQCHdQ&riu=http%3a%2f%2fforum.maxabout.com%2fuploads%2fdefault%2foriginal%2f2X%2f2%2f29aaab0d1b28b41b0b29944f2fb00029b4682256.gif&ehk=gC5L3Bd%2fzq1YpjxvjO1etEOFL9XEgsMj4q51txBe6rE%3d&risl=&pid=ImgRaw&r=0" />
 
 ## In school:
@@ -7,7 +7,7 @@
 - 🚀 &nbsp; I’m learning HTML5&CSS3 and C++ .
 
 <hr>
-## Languages that i know and i want to learn:
+Languages that i know and i want to learn:
 
 <code><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
 <code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
