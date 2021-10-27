@@ -1,7 +1,5 @@
 # Hi my name is Venelin Nikolov 👋
-<hr>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-</hr>
+
 <img align="right" height="250" width="375" alt="" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" />
 
 ## Talking about Personal Stuffs:
