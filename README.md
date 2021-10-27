@@ -4,8 +4,6 @@
 
 ### I'm 15 years old and i'm studying at PGKPI in Burgas.
 
-<hr>
-
 <img align="right" height="250" width="375" alt="" src="https://th.bing.com/th/id/R.5eee22643202b9a757e457fbc796b74d?rik=SHHQNgKCZQCHdQ&riu=http%3a%2f%2fforum.maxabout.com%2fuploads%2fdefault%2foriginal%2f2X%2f2%2f29aaab0d1b28b41b0b29944f2fb00029b4682256.gif&ehk=gC5L3Bd%2fzq1YpjxvjO1etEOFL9XEgsMj4q51txBe6rE%3d&risl=&pid=ImgRaw&r=0" />
 
 <hr>
